@@ -1,0 +1,62 @@
+h1{
+    color:royalblue ;
+    text-align: center;
+    font-size: 500%;   
+}
+table, td, th {
+    border: 1px solid #888;
+    border-collapse: collapse;    
+}
+table{
+    width: 100%;
+}
+main{
+    width: 1200px;
+    margin: 0 auto;
+}
+footer{
+    text-align: center;
+    margin: 7px;
+    font-size: 115%;
+    padding: 10px;
+}
+td, th{
+padding: 15px;
+font-size: 115%;
+
+}
+caption{
+  font-size: 200%; 
+  margin: 5px;
+  padding: 10px; 
+}
+.flag{
+    height: 20px; 
+}
+.text-center{
+    text-align: center;
+}
+.text-bold{
+    font-weight: bold;
+}
+.gold{
+    background-color: gold;
+}
+.silver{
+    background-color: silver;
+}
+.bronze{
+    background-color: #cd7f32;
+}
+th{
+    background-color: white;
+}
+.zoh{
+    font-size: 150%;
+}
+img{
+    padding: 20px;
+}
+
+
+
